@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 76011957179cac04a8230c40a222c951
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Blocks
+    second: {fileID: 2100000, guid: 799a7efa0d3e98844a16ea944a5e56c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Circulars
+    second: {fileID: 2100000, guid: 416270b6b741682448fc4c53431040bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Cylindrical
+    second: {fileID: 2100000, guid: 0257bb14cebd97e48902a9e16d0d4b48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Floor 1
+    second: {fileID: 2100000, guid: 4b81db0e987783a438890777a3e92d80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Floor 2
+    second: {fileID: 2100000, guid: 289b56a2813a7294695e422b88b09dc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Frames
+    second: {fileID: 2100000, guid: a17354230ffdfff4287863d176d74664, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 1
+    second: {fileID: 2100000, guid: c4a6758791676944cacabdcefd910e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 10
+    second: {fileID: 2100000, guid: 641c83bc9b1ce224cb4ea0e3f2791e94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 11
+    second: {fileID: 2100000, guid: 13c6ae6b6db92eb4aa1ee6940a42fc75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 12
+    second: {fileID: 2100000, guid: a8e71d14eb4b0bf4c89a8ee8ee15dc7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 13
+    second: {fileID: 2100000, guid: ef66609d1920f484d8cec769b3ab2466, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 14
+    second: {fileID: 2100000, guid: 2b6566cb2e794c242b0d0503c19a8159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 15
+    second: {fileID: 2100000, guid: 32e08c7eecf69ce429ee6e55422549ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 16
+    second: {fileID: 2100000, guid: 99fdfa03541b76d408ae3cc3c6665e79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 17
+    second: {fileID: 2100000, guid: 92836a68cfcdf2141b258f17ca738e60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 18
+    second: {fileID: 2100000, guid: 9198077295b752f43b2ef30e9b3243b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 19
+    second: {fileID: 2100000, guid: 74deff5efd144f24d95aa698791b55a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 2
+    second: {fileID: 2100000, guid: e55bbd3209ed9774d86140a0684dec58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 20
+    second: {fileID: 2100000, guid: be0220afad74502428b048b50ce9ca53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 21
+    second: {fileID: 2100000, guid: 7125af0325c4fb240abe97398c16d076, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 22
+    second: {fileID: 2100000, guid: 7c3269d0c7529bf489328ce690277252, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 3
+    second: {fileID: 2100000, guid: 67364df56cdb95d498d16316e0ccc060, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 4
+    second: {fileID: 2100000, guid: d557f8ded5aa6da449c5fa9f80502a62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 5
+    second: {fileID: 2100000, guid: 58e83177938cea546894cf9b855f2463, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 6
+    second: {fileID: 2100000, guid: 0d4137d5fdb741a4dae88f07a9487c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 7
+    second: {fileID: 2100000, guid: 079b816214a6e6843b4cd847fe2d0c4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Greeble 8
+    second: {fileID: 2100000, guid: ce5bee23587953c41ac02876462c35bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Panel
+    second: {fileID: 2100000, guid: 0be8603820142ee4baf1526360ffcaf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Rectangular
+    second: {fileID: 2100000, guid: e0e4fc200d278cc43bc5718a7f115f02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_SciFi Panel 1
+    second: {fileID: 2100000, guid: 8f3f1356df2182141b7a82dfb0c71000, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_SciFi Panel 4
+    second: {fileID: 2100000, guid: d8eb9e03459072b4ab6afc8f4b1e4015, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_SciFi Trimsheet 1
+    second: {fileID: 2100000, guid: 9c849304e2ac62b4d90c6d08c9e4a6ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_SciFi Trimsheet 2
+    second: {fileID: 2100000, guid: 03c8fe94e77cef143bfc0e079a3092d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Tiling Dark Metal
+    second: {fileID: 2100000, guid: 7160f5dcad54f0a43a7c168e4ca271d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Tiling Dark Plastic Cable
+    second: {fileID: 2100000, guid: f3e9b2eb12ce3db43affc64563536150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Tiling Light Metal
+    second: {fileID: 2100000, guid: e59b514df4293fa47a9d8f2f79ea24c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Tiling Orange Accent Paint
+    second: {fileID: 2100000, guid: ac9ca7df956c6f84997c8872b20513e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GT_SG_Tiling Painted Metal Dark
+    second: {fileID: 2100000, guid: 1288bbf66f3305f45890cecc20b45d4b, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
